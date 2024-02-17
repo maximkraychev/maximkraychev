@@ -46,3 +46,17 @@
 
 
 ## Languages and Tools
+[![JavaScript](https://skillicons.dev/icons?i=js&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts&theme=dark)](https://www.typescriptlang.org/)
+[![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://nodejs.org)
+[![Express.js](https://skillicons.dev/icons?i=express&theme=dark)](https://expressjs.com/)
+[![React](https://skillicons.dev/icons?i=react&theme=dark)](https://react.dev/)
+[![Angular](https://skillicons.dev/icons?i=angular&theme=dark)](https://angular.io/)
+[![HTML5](https://skillicons.dev/icons?i=html&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://skillicons.dev/icons?i=css&theme=dark)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)](https://tailwindcss.com/)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)](https://www.mongodb.com/)
+[![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark)](https://firebase.google.com)
+[![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com)
+[![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://www.postman.com)
