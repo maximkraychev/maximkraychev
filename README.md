@@ -60,3 +60,14 @@
 [![Git](https://skillicons.dev/icons?i=git&theme=dark)](https://git-scm.com/)
 [![GitHub](https://skillicons.dev/icons?i=github&theme=dark)](https://github.com)
 [![Postman](https://skillicons.dev/icons?i=postman&theme=dark)](https://www.postman.com)
+
+## Certificates
+
+- [ReactJS - October 2023](https://softuni.bg/certificates/details/197789/b1382097)
+- [HTML & CSS - September 2023](https://softuni.bg/certificates/details/190709/37762bfb)
+- [Angular - June 2023](https://softuni.bg/certificates/details/182930/deb14dfc)
+- [JS Back-End - May 2023](https://softuni.bg/certificates/details/175170/33c7d3ca)
+- [JS Applications - February 2023](https://softuni.bg/certificates/details/167742/81faa7b3)
+- [JS Advanced - January 2023](https://softuni.bg/certificates/details/160055/45559c3b)
+- [Programming Fundamentals JS - September 2022](https://softuni.bg/certificates/details/149360/88abb953)
+- [Programming Basics JS - April 2022](https://softuni.bg/certificates/details/133990/4af58e78)
