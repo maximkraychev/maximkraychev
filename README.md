@@ -63,6 +63,7 @@
 
 ## Certificates
 
+- [Student-Intern - February 2024](https://github.com/maximkraychev/SoftUni/blob/main/Certificate/Certificate-Student-Intern-Maxim-Kraychev.pdf)
 - [ReactJS - October 2023](https://softuni.bg/certificates/details/197789/b1382097)
 - [HTML & CSS - September 2023](https://softuni.bg/certificates/details/190709/37762bfb)
 - [Angular - June 2023](https://softuni.bg/certificates/details/182930/deb14dfc)
