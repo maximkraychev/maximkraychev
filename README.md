@@ -38,7 +38,7 @@
         - Deployment: Firebase
           
 **Wack A Mole Game**
-   - 📡 Live Demo: [Wack A Mole Game](wack-a-mole-game.vercel.app)
+   - 📡 Live Demo: [Wack A Mole Game](https://wack-a-mole-game.vercel.app)
    - 🗂️ GitHub Repository: [Link to GitHub repository](https://github.com/maximkraychev/SoftUni/tree/main/React/Playground/wack-a-mole-game)
    - 🛠️ Technologies Used: 
         - Frond-End: React
