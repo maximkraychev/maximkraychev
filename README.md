@@ -4,7 +4,7 @@
 <h3 align="center">A passionate FullStack Developer</h3>
 
 <p align="center">  
-  <samp>🌱 I’m currently learning <b>PostgreSQL</b></samp>
+  <samp>🌱 I’m currently improving my skills with <b>Angular</b></samp>
 </p>
 
 <p align="center">
